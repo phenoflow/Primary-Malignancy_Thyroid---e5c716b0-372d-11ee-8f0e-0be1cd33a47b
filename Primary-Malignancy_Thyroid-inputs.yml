@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_thyroid-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_thyroid---primary.py
+inputModule4:
+  class: File
+  path: python/malignant-neoplasm-thyroid-gland-primary-malignancy_thyroid---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
